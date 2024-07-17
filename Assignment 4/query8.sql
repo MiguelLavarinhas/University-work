@@ -1,0 +1,1 @@
+SELECT DISTINCT city from offices;

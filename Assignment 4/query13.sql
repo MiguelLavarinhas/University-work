@@ -1,0 +1,1 @@
+SELECT customers.customerName AS "CustomerName", ROUND(SUM(amount),2) AS "total" FROM customers, payments WHERE customers.customerNumber= payments.customerNumber group by customers.customerNumber ;

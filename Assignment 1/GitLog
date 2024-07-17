@@ -1,0 +1,21 @@
+0: commit bf6471858d06a8282fae6830de14f9b9afdd63eb
+1: Author: Miguel Lavarinhas <lvrmig001@myuct.ac.za>
+2: Date: Sat Mar 2 16:05:52 2024 +0200
+3:
+4: Added javadoc to all classes.
+5:
+6: commit 224b205bea991fa427b419fc10c726902c0270b4
+7: Author: Miguel Lavarinhas <lvrmig001@myuct.ac.za>
+8: Date: Fri Mar 1 10:42:45 2024 +0200
+9:
+...
+19: Author: Miguel Lavarinhas <lvrmig001@myuct.ac.za>
+20: Date: Thu Feb 29 18:44:10 2024 +0200
+21:
+22: Assignment 1: Finished GenericsKbArray and BinaryTree and modified BinaryTreeNode and GenericsKBSTApp.
+23:
+24: commit 9ad1f452482eb37d5f4709aa68f2ffeb894f1d0f
+25: Author: Miguel Lavarinhas <lvrmig001@myuct.ac.za>
+26: Date: Wed Feb 28 18:44:59 2024 +0200
+27:
+28: Assignment 1: This is my first commit.

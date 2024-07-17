@@ -1,0 +1,1 @@
+SELECT SUM(quantityOrdered*priceEach) AS totalCost FROM orders JOIN orderdetails ON orders.orderNumber = orderdetails.orderNumber WHERE orders.customerNumber=121;

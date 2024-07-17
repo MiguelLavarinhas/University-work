@@ -1,0 +1,100 @@
+giant eland	Giant elands reach maturity.	1.0
+carte	Carte is a bill	1.0
+human interferon	Human interferon is a small protein released from different kinds of cells in the body.	0.8301771283149719
+invasive pathogen	Invasive pathogens colonize the host's tissues as opposed to growing on tissue surfaces.	0.7659724950790405
+treatise	A treatise is a writing	1.0
+acoustic guitar	Acoustic guitars are located in rock bands.	1.0
+June	June isa month.	1.0
+gemination	A gemination is repetition	1.0
+plaice	Plaices have (part) sperm.	1.0
+webmaster	Webmasters are technicians.	1.0
+sap beetle	Sap beetles are beetles.	1.0
+airport terminal	An airport terminal is a terminal	1.0
+male frog	Male frogs have one or two pouches of skin called vocal sacs.	0.7325541377067566
+front compartment	Front compartments feature laptops.	1.0
+battle	Battles are located in war.	1.0
+obedient plant	An obedient plant is a herb	1.0
+bombast	Bombast is rhetoric	1.0
+shredder	Shredders are devices.	1.0
+Massachusetts	Massachusetts is part of America.	1.0
+Citrus peel	Citrus peels contain oils useful for controlling ants.	0.8337479829788208
+resistant bacteria	Resistant bacteria multiply when non-resistant bacteria die.	0.7037197351455688
+urocanic acid	Urocanic acid suppresses the activation of human neutrophils in vitro.	0.8044450283050537
+moral principle	Moral principles are principles.	1.0
+review committee	Review committees are committees.	1.0
+balanced diet	Balanced diets are diets.	1.0
+altercation	Altercation is a row	1.0
+chromosome disorder	Chromosome disorders involve abnormalities in the number or structure of chromosomes.	0.8024070262908936
+sylvalagi arachnid	Sylvalagi arachnids have six upper arms.	0.7610707879066467
+kitten	Kittens are located in story books.	1.0
+first class	First classes are mail.	1.0
+reflexive	A reflexive is a personal pronoun	1.0
+selling	Selling are part of marketing.	1.0
+bank examiner	A bank examiner is an inspector	1.0
+red deer	Red deer acquire infection.	1.0
+different gas	Different gases comprise particles with different masses.	0.7551524043083191
+organophosphorous insecticide	Organophosphorous insecticides are much less persistent than organochlorines.	0.7047112584114075
+female infertility	Female infertility can result from infections of untreated sexually transmitted diseases.	0.7188348174095154
+photon detector	Photon detectors are used by observers.	1.0
+part of speech	A part of speech is a category	1.0
+caressing	A caressing is stimulation	1.0
+boxer puppy	Boxer puppies need food.	1.0
+optometry	Optometries are practice.	1.0
+allergenic pollen	Allergenic pollen is usually from wind-pollinated plants.	0.7685301899909973
+coordinating	Coordinatings are treatments.	1.0
+fluidity	Fluidity is a body	1.0
+immutability	Immutability is quality	1.0
+fresh bean	Fresh beans have aroma.	1.0
+overpopulation	An overpopulation is a population	1.0
+bunch	Bunch isa collection.	1.0
+diploid germ	Diploid germ undergoes meiosis.	1.0
+neuronal expression	Neuronal expression is seen in many motorneurons, sensory neurons, and various ganglia.	0.7454672455787659
+freight elevator	A freight elevator is an elevator	1.0
+many government agency	Many government agencies operate facilities.	1.0
+interrogative	Interrogative is a sentence	1.0
+agglomerate	An agglomerate is a volcanic rock	1.0
+bastinado	A bastinado is torturing	1.0
+agora	Agoras are marketplaces.	1.0
+signalman	A signalman is an employee	1.0
+myoepitheial cell	Myoepitheial cells support and constrict the gland in response to cholinergic stimulation.	0.7927941679954529
+microglial cell	Microglial cells are mesodermal in origin.	0.8240587115287781
+effective management	Effective management requires more attention.	1.0
+calcium metabolism	Calcium metabolism involves both calcium homeostasis and balance.	0.8116431832313538
+sea lily	Sea lilies have a central body, or calyx, surrounded by feathery, usually heavily branched arms.	0.8324859738349915
+rosy periwinkle	Rosy periwinkle produces chemicals to fight leukemia.	0.7743527889251709
+follow factor	Follow factors increase development.	1.0
+native wildflower	Native wildflowers occur in meadows.	1.0
+toggle	Toggles are fasteners.	1.0
+urea level	Urea level is elevated due to dehydration.	0.7118468880653381
+bust	Busts are statues.	1.0
+alpha agonist	Alpha agonists increase potassium release from the liver.	0.8125165104866028
+madam	Madams have (part) necks.	1.0
+night game	A night game is an outdoor game	1.0
+severe hypoglycemia	Severe hypoglycemia occurs as liver stores of glucose are depleted.	0.8099741339683533
+vegetable juice	Vegetable juice has properties.	1.0
+mendelevium	Mendelevium has no naturally occurring isotopes.	0.7436099052429199
+basic design	Basic designs use instruments.	1.0
+potted plant	Potted plants are located in roofs.	1.0
+commercial enterprise	Commercial enterprises are part of markets.	1.0
+maple	Maple is a pale wood with a fine grain.	0.7277637124061584
+axis	Axises are mammals.	1.0
+docket	Dockets are calendars.	1.0
+intervenor	An intervenor is a party	1.0
+bearded dragon	Bearded dragons are oviparous, which means they produce amniotic eggs.	0.7547703981399536
+lymphatic circulation	Lymphatic circulation depends on movement and exercise to propel lymph flow.	0.7450816035270691
+rung	Rungs have (part) sections.	1.0
+tubular fluid	Tubular fluid is an ultrafiltrate, meaning that it is relatively free of plasma proteins.	0.8211265802383423
+few perennial vegetable	Few perennial vegetables grow in gardens.	1.0
+high school student	High school students demonstrate talent.	1.0
+dusky pademelon	Dusky pademelons reach sexual maturity.	1.0
+throat warbler	Throat warblers have faces.	1.0
+mensuration	Mensuration is an activity	1.0
+total concentration	Total concentration exceeds limits.	1.0
+calico crab	A calico crab is a swimming crab	1.0
+kappa	A kappa is a letter	1.0
+leukaemia cutis	Leukaemia cutis arises due to cutaneous infiltration of neoplastic leukocytes or their precursors.	0.7493345141410828
+citrin employ	Citrin employ's the body's own natural mechanism to suppress appetite.	0.716215968132019
+flexible sigmoidoscopy	A flexible sigmoidoscopy is endoscopy	1.0
+wildlife centre	Wildlife centres offer services.	1.0
+nuclear dimorphism	Nuclear dimorphism has types.	1.0
+clothe moth larva	Clothe moth larvae have ability.	1.0

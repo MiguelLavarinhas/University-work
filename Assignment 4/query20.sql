@@ -1,0 +1,1 @@
+SELECT employees.firstName, employees.lastName, SUM(payments.amount) AS "total" FROM employees JOIN customers ON employees.employeeNumber=customers.salesRepEmployeeNumber JOIN payments ON customers.customerNumber = payments.customerNumber WHERE employees.officeCode= 7 GROUP BY employees.employeeNumber, employees.firstName, employees.lastName;

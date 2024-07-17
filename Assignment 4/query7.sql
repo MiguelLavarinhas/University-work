@@ -1,0 +1,1 @@
+SELECT city, postalCode FROM offices WHERE country IN("UK","USA");
